@@ -1,2 +1,1 @@
-# luta-poo-function
-Refatoração do projeto luta com programação funcional
+# projeto-comentado-1-
